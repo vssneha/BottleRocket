@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BottleRocket</string>
+    <string name="loading">Loading Data...</string>
+</resources>
